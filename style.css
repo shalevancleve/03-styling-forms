@@ -159,6 +159,10 @@ nav ul li a:hover {
   border-radius: 5px;
 }
 
+.form-label {
+  font-weight: bold;
+}
+
 /* Footer */
 footer {
   background-color: #ffffff;
